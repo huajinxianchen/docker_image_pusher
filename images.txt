@@ -1,2 +1,6 @@
 mysql:8.0.30
+redis
+nacos
+nginx
+mongodb
 

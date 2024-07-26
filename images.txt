@@ -1,5 +1,6 @@
+mango:7.0.0
 mysql:8.0.30
 redis:6.2.6
 nginx:1.26.1
 nacos/nacos-server:v2.3.2
-mango:7.0.0
+

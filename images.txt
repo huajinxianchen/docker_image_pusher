@@ -1,4 +1,4 @@
-minio:lastest
+minio:RELEASE.2023-07-10T21-23-10Z
 mysql:8.0.30
 redis:6.2.6
 nginx:1.26.1
